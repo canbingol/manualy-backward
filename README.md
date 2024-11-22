@@ -7,7 +7,7 @@ This project implements forward and backward propagation for a single neuron, in
 - Loss Function: Implements Negative Log Likelihood (NLL) loss.
 ## Results
 ### Updated Parameters 
-### Updated Parameters
+
 
 | Parameter      | Implementation                           | PyTorch                           |
 |----------------|------------------------------------------|------------------------------------|
