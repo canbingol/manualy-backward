@@ -7,18 +7,12 @@ This project implements forward and backward propagation for a single neuron, in
 - Loss Function: Implements Negative Log Likelihood (NLL) loss.
 ## Results
 ### Updated Parameters 
-- with our code
-  Biases:
-  [0.0585009, 0.0512659]
-  Weights:
-  [[0.0143656, 0.5767],
-   [0.193304, 0.808741]]
-
-- with pytorch
-  Biases: [0.0581, 0.0484]
-  Weights:
-  [[0.0013, 0.5636],
-   [0.1915, 0.8105]]
+### Updated Parameters
+| Parameter      | Implementation                           | PyTorch                           |
+|----------------|------------------------------------------|------------------------------------|
+| **Biases**     | `[0.0585009, 0.0512659]`                | `[0.0581, 0.0484]`                |
+| **Weights**    | `[[0.0143656, 0.5767], [0.193304, 0.808741]]` | `[[0.0013, 0.5636], [0.1915, 0.8105]]` |
+]
 
 ## Known Issue
 - Error: Process finished with exit code -1073740940 (0xC0000374)
